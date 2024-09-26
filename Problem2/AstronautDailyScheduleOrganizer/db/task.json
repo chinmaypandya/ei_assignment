@@ -1,0 +1,9 @@
+[
+  {
+    "description": "Exercise",
+    "startTime": "9:00",
+    "endTime": "10:00",
+    "priority": "High",
+    "isCompleted": false
+  }
+]
