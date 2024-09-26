@@ -70,6 +70,7 @@ These examples provide a practical implementation of various design patterns thr
 # Test
 
 ```bash
+cd behavioural/SmartHomeAutomation (an example)
 npm i
 npm run build
 npm run start
